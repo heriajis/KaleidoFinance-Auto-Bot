@@ -1,5 +1,4 @@
-// banner.js
-const chalk = require('chalk');
+import chalk from 'chalk';
 
 function displayBanner() {
     console.log(chalk.cyan(`
@@ -21,4 +20,4 @@ function displayBanner() {
     `));
 }
 
-module.exports = displayBanner;
+export default displayBanner;
