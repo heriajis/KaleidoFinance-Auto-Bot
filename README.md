@@ -18,7 +18,7 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/airdropinsiders/KaleidoFinance-Auto-Bot.git
+   git clone https://github.com/heriajis/KaleidoFinance-Auto-Bot.git
    cd KaleidoFinance-Auto-Bot
    ```
 2. Install dependencies:
